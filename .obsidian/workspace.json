@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b2c4386db34a6b1",
+        "id": "66889fb143c9dd84",
         "type": "tabs",
         "children": [
           {
-            "id": "4585a87dc3cb0512",
+            "id": "1495713caf6a6164",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,9 +45,9 @@
               "state": {
                 "file": "refs/King_etal_2014.pdf",
                 "page": 1,
-                "left": -23,
-                "top": 795,
-                "zoom": 0.6666666666666666
+                "left": -16,
+                "top": 796,
+                "zoom": 1.0294117647058822
               },
               "icon": "lucide-file-text",
               "title": "King_etal_2014"
@@ -61,15 +61,16 @@
               "state": {
                 "file": "refs/Loevenbruck_etal_OUP2018.pdf",
                 "page": 1,
-                "left": -18,
-                "top": 565,
-                "zoom": 0.8743784437575595
+                "left": -32,
+                "top": 845,
+                "zoom": 0.49640505308426297
               },
               "icon": "lucide-file-text",
               "title": "Loevenbruck_etal_OUP2018"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "360b99f24876d69e",
@@ -245,7 +245,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4585a87dc3cb0512",
+  "active": "1495713caf6a6164",
   "lastOpenFiles": [
     "refs/King_etal_2014.pdf",
     "Notes pré-stage.md",
