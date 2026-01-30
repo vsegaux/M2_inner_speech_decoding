@@ -1,0 +1,30 @@
+{
+  "file-explorer:new-file-in-new-pane": [],
+  "editor:toggle-bold": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:open-search-replace": [],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
+}
