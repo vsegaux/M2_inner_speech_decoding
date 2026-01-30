@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes pré-stage.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notes pré-stage"
+              "title": "README"
             }
           }
         ]
@@ -61,9 +61,9 @@
               "state": {
                 "file": "refs/Loevenbruck_etal_OUP2018.pdf",
                 "page": 1,
-                "left": -32,
+                "left": -22,
                 "top": 845,
-                "zoom": 0.49640505308426297
+                "zoom": 0.6853917484209113
               },
               "icon": "lucide-file-text",
               "title": "Loevenbruck_etal_OUP2018"
@@ -226,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,8 +248,9 @@
   },
   "active": "1495713caf6a6164",
   "lastOpenFiles": [
-    "refs/King_etal_2014.pdf",
     "Notes pré-stage.md",
+    "README.md",
+    "refs/King_etal_2014.pdf",
     "refs/Loevenbruck_etal_OUP2018.pdf",
     "refs/grandchamp_etal_2019.pdf",
     "refs/grandchamp_etal_2919.pdf",
